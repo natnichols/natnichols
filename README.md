@@ -4,7 +4,6 @@
 
 #### In my previous career, I traversed managerial roles in multiple fields, namely theatre and financial technology. With my organizational agility, off the charts creativity, and technical versatility, I bring a fresh perspective to the ever-evolving field of tech.
 
-![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnichols&hide=contribs,prs&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natnichols&hide=html&layout=compact&theme=dark)
 
 <!--
